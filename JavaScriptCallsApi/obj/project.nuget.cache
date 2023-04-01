@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "S7aoXxevXtyResSXyk8VAK/gJPrDck1s0MIKOge15tntoBZUQ25vVc8MtJ8Ktf4UHMXmcN3fWtSXXU90/+N/1g==",
+  "dgSpecHash": "3gZIoChr6J86ud7/tDd0qT6EJEF70nolSrnqfi/u1bxPJFMA+ZSZV2rRFfROnG3OwPW2e+2cmjMXRIl4vNJPRA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\cp361956\\OneDrive - Capitec Bank Ltd\\Documents\\Visual Studio 2022\\Projects\\JavaScriptCallsApi_App\\JavaScriptCallsApi\\JavaScriptCallsApi.csproj",
+  "projectFilePath": "C:\\Projects\\ASP net\\AspNet_JavaScript_API\\JavaScriptCallsApi\\JavaScriptCallsApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cp361956\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\cp361956\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
