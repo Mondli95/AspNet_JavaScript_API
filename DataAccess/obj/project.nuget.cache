@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "7MomFVfQc+Hz6255xlovF6tGbTH5uUxrpkFrFtxcZxSqCNCCmJvq98szBo2+Gp15srxUxNcDV4crTP/jqimLgQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cp361956\\OneDrive - Capitec Bank Ltd\\Documents\\Visual Studio 2022\\Projects\\JavaScriptCallsApi_App\\DataAccess\\DataAccess.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cp361956\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\cp361956\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
+    "C:\\Users\\cp361956\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\cp361956\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\cp361956\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
